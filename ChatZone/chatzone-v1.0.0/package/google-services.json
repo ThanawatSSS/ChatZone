@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "152431931828",
+    "firebase_url": "https://chatzone-66bca-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chatzone-66bca",
+    "storage_bucket": "chatzone-66bca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152431931828:android:d5d2e1be58dc2bb65482e1",
+        "android_client_info": {
+          "package_name": "com.boomhero22.chatzone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152431931828-8nisi9bja2m3s1qudb0pbjsu9j7olv6m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.boomhero22.chatzone",
+            "certificate_hash": "0a7d7e57568772ad364383bed32ec624facc3de7"
+          }
+        },
+        {
+          "client_id": "152431931828-mda9b3t4j2eh9vbenmunnou4eoike2o2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.boomhero22.chatzone",
+            "certificate_hash": "758b1b1e0a9646768cbacd51fd886c3ecd84f54b"
+          }
+        },
+        {
+          "client_id": "152431931828-7dsl9j10233gmv8mmhjs2nnouj77m56v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFBlcIZE49G4uz_wiBJuJOuh8MHG67t6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152431931828-7dsl9j10233gmv8mmhjs2nnouj77m56v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

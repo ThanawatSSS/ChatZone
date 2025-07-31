@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "ChatZone",
+    "slug": "chatzone",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/ChatZone.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/ChatZone.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/ChatZone.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.boomhero22.chatzone"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "cfb91839-7bae-4940-8dfe-9ef99233684c"
+      }
+    },
+    "owner": "boomhero22",
+  }
+}
