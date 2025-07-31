@@ -43,6 +43,8 @@
   Your browser does not support the video tag.
 </video>
 
+[Watch Demo](./ChatZone/Demo_ChatZone.mp4)
+
 ---
 
 ## 🔧 Installation
