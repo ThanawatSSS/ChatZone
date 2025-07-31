@@ -39,7 +39,7 @@
 ## 📸 Demo
 
 <video width="640" height="360" controls>
-  <source src="https://github.com/ThanawatSSS/ChatZone/blob/main/ChatZone/Demo_ChatZone.mp4" type="video/mp4">
+  <source src="https://drive.google.com/file/d/1sgdmhPctz4cBZNkp_4AQd_nUScwbrRJc/view?usp=sharing" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
